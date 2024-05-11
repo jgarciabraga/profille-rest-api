@@ -1,4 +1,4 @@
-# Profiles REST API
+# Profiles REST API (Django and Django RestFramework project)
 
 Profile REST API code.
 
